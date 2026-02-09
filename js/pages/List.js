@@ -99,15 +99,13 @@ export default {
                         </ol>
                     </template>
                     <h2>Also check out the Geneva Demonlist by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
+                    <h2>The GD Lite List can also be found by <a href="https://gdllite.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
-                    </p>
-                    <p>
-                        Have audible click sounds throughout the video only IF it is an Hard Demon, Insane Demon, or an Extreme Demon. If the level is unrated, only if it is hard enough to at least be a Hard Demon, or if the list says so on the level page.
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. If it is a level new to the site, this rule is invalidated.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
@@ -123,6 +121,12 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List ( Below Top 250 ), records are no longer accepted. Sorry!
+                    </p>
+                    <p>
+                        All submissions must be done on a level already on the list, or if it is a GDL Verification, the level must either be rated, be decorated to some extent, or have historial significance.
+                    </p>
+                    <p>
+                        All submissions must be done on a level that is less than 30 seconds long, you can check this by going on the level page, and if it is "Short" or "Tiny", it is less than 30 seconds.
                     </p>
                 </div>
             </div>
