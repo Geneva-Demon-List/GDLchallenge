@@ -126,6 +126,9 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
+                        All levels on this list must be published and publicly available for anybody with the full version to play.
+                    </p>
+                    <p>
                         Once a level falls onto the Legacy List ( Below Top 200 ), records are no longer accepted. Sorry!
                     </p>
                     <p>
