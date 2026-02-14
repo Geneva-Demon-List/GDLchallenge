@@ -8,5 +8,17 @@
     "percentToQualify": "75",
     "difficulty": "Unrated Demoon",
     "records": [
+        {
+            "user": "MrGilFellow",
+            "link": "https://www.youtube.com/watch?v=RhzPVIyI9g0",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "wRocket",
+            "link": "https://youtu.be/fXriicYr7fA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
