@@ -8,5 +8,11 @@
     "percentToQualify": "80",
     "difficulty": "Unrated",
     "records": [
+        {
+            "user": "earthmoth",
+            "link": "https://youtu.be/R1XtGxIenjw",
+            "percent": 100,
+            "hz": 30
+        },
     ]
 }
