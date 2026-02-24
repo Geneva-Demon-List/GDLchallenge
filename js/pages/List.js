@@ -137,6 +137,9 @@ export default {
                     <p>
                         All submissions must be done on a level that is less than 30 seconds long, you can check this by going on the level page, and if it is "Short" or "Tiny", it is less than 30 seconds.
                     </p>
+                    <p>
+                        If you use Mega Hack, you must set your ruleset to Demonlist. This also means that if the GD Demonlist does not allow a hack to be turned on, the GDL doesn't either.
+                    </p>
                 </div>
             </div>
         </main>
