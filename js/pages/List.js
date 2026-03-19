@@ -117,7 +117,7 @@ export default {
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Levels placing above Xmas Challenge require audible click sounds OR a handcam to have your records be accepted.
+                        All submissions must be recorded and have audible click sounds ( no clickbot )
                     </p>
                     <p>
                         Do not use secret routes or bug routes
