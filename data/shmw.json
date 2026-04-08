@@ -6,7 +6,13 @@
     "verifier": "MrGilfellow",
     "verification": "https://youtu.be/nB-LF9SidGY",
     "percentToQualify": "65",
-    "difficulty": "top 1 bozo",
+    "difficulty": "Unrated",
     "records": [
+        {
+            "user": "wRocket",
+            "link": "https://youtu.be/zrU7KyZwwLY",
+            "percent": 100,
+            "hz": 240
+        }
   ]
 }
