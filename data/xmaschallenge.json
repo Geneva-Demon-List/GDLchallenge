@@ -9,6 +9,12 @@
     "difficulty": "Easy",
     "records": [
         {
+            "user": "MrGilFellow",
+            "link": "https://www.youtube.com/watch?v=Zfu4Cr4xKzo",
+            "percent": 100,
+            "hz": 480
+        },
+        {
             "user": "earthmoth",
             "link": "https://youtu.be/T8rDC38yuYk",
             "percent": 100,
