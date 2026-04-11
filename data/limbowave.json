@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "difficulty": "Unrated",
     "records": [
+          {
+            "user": "MrGilFellow",
+            "link": "https://www.youtube.com/watch?v=RhzPVIyI9g0",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
