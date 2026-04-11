@@ -3,10 +3,16 @@
     "name": "SuperHateMeWorldChallenge",
     "author": "MrGilfellow",
     "creators": [],
-    "verifier": "wRocket",
-    "verification": "https://youtu.be/zrU7KyZwwLY",
+    "verifier": "MrGilfellow",
+    "verification": "https://youtu.be/nB-LF9SidGY",
     "percentToQualify": "65",
     "difficulty": "Unrated",
     "records": [
+        {
+            "user": "wRocket",
+            "link": "https://youtu.be/zrU7KyZwwLY",
+            "percent": 100,
+            "hz": 240
+        }
   ]
 }
