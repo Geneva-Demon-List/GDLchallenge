@@ -3,10 +3,16 @@
     "name": "Mini Wave Challenge",
     "author": "EarthMoth",
     "creators": [],
-    "verifier": "wRocket",
-    "verification": "https://youtu.be/of19krOuPds",
+    "verifier": "MrGilfellow",
+    "verification": "https://youtu.be/9m6Ox0RzRhw",
     "percentToQualify": "100",
     "difficulty": "Unrated",
     "records": [
-  ]
+        {
+            "user": "wRocket",
+            "link": "https://youtu.be/of19krOuPds",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
