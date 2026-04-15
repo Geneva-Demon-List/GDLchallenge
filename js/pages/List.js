@@ -29,8 +29,29 @@ export default {
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i">
+                            <!-- Legacy, Top 151+ ( Italics ) -->
+                            <button @click="selected = i" v-if "i + 1 > 150">
+                                <span class="type-label-lg"><i>{{ level?.name || \`Error (\${err}.json)\` }}</i></span>
+                            </button>
+                            <!-- Extended, Top 76-150 ( Unformatted ) -->
+                            <button @click="selected = i" v-else-if "i + 1 > 75">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                            </button>
+                            <!-- Non-Top 3 Main List, Top 4-75 ( Bold/Emphasized ) -->
+                            <button @click="selected = i" v-else-if "i + 1 > 3">
+                                <span class="type-label-lg"><em>{{ level?.name || \`Error (\${err}.json)\` }}</em></span>
+                            </button>
+                            <!-- Top 3 ( Bronze / Brown Text ) -->
+                            <button @click="selected = i" v-else-if "i + 1 = 3">
+                                <span class="type-label-lg" style="color: #CD7F32;"><em>{{ level?.name || \`Error (\${err}.json)\` }}</em></span>
+                            </button>
+                            <!-- Top 2 ( Silver / White Text ) -->
+                            <button @click="selected = i" v-else-if "i + 1 = 2">
+                                <span class="type-label-lg" style="color: yellow;"><em>{{ level?.name || \`Error (\${err}.json)\` }}</em></span>
+                            </button>
+                            <!-- Top 1 ( Golden / Yellow Text ) -->
+                            <button @click="selected = i" v-else-if "i + 1 = 1">
+                                <span class="type-label-lg" style="color: cyan;"><em>{{ level?.name || \`Error (\${err}.json)\` }}</em></span>
                             </button>
                         </td>
                     </tr>
