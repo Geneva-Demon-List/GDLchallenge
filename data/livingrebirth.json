@@ -3,16 +3,10 @@
     "name": "Living Rebirth",
     "author": "MrGilfellow",
     "creators": [],
-    "verifier": "MrGilfellow",
-    "verification": "https://youtu.be/Utix6N0KIYY",
+    "verifier": "wRocket",
+    "verification": "https://youtu.be/zu6NIvHER-Q",
     "percentToQualify": "65",
     "difficulty": "Unrated Medium Demon",
     "records": [
-        {
-            "user": "wRocket",
-            "link": "https://youtu.be/zu6NIvHER-Q",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
