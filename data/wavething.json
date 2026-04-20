@@ -3,16 +3,10 @@
     "name": "Wave Thing Re Dec 2",
     "author": "PandaFriend999",
     "creators": [],
-    "verifier": "MrGilFellow",
-    "verification": "https://www.youtube.com/watch?v=DzYJqYH5XS0",
+    "verifier": "earthmoth",
+    "verification": "https://www.youtube.com/watch?v=R1XtGxIenjw",
     "percentToQualify": "100",
     "difficulty": "Unrated",
     "records": [
-        {
-            "user": "earthmoth",
-            "link": "https://youtu.be/R1XtGxIenjw",
-            "percent": 100,
-            "hz": 30
-        }
     ]
 }
