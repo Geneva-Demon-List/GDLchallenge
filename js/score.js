@@ -30,10 +30,11 @@ export function score(rank, percent, minPercent) {
     score = Math.max(0, score);
 
     if (percent != 100) {
-        return round(score - score / 3);
+        return score - score / 3;
     }
 
-    return Math.round(Math.max(round(score), 0) * 10) / 10;
+    return Math.max(round(score), 0);
+    // Math.max(round(score), 0)
 }
 
 export function round(num) {
