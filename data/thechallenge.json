@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "difficulty": "Hard",
     "records": [
+        {
+            "user": "MrGilFellow",
+            "link": "https://youtu.be/fZHTNdX-p84",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
