@@ -6,7 +6,13 @@
     "verifier": "wRocket",
     "verification": "https://youtu.be/zu6NIvHER-Q",
     "percentToQualify": "65",
-    "difficulty": "Unrated Medium Demon",
+    "difficulty": "Unrated",
     "records": [
+        {
+            "user": "MrGilFellow",
+            "link": "https://youtu.be/OQRHYr9sxzI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
