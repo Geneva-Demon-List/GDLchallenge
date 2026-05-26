@@ -3,10 +3,16 @@
     "name": "EarthMoth Paradise",
     "author": "EarthMoth",
     "creators": [],
-    "verifier": "MrGilfellow",
-    "verification": "https://youtu.be/gfXc0bNXrXM",
+    "verifier": "EarthMoth",
+    "verification": "https://youtu.be/zk4wfbsE21M",
     "percentToQualify": "65",
     "difficulty": "Unrated",
     "records": [
+        {
+            "user": "MrGilFellow",
+            "link": "https://youtu.be/gfXc0bNXrXM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
