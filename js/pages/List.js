@@ -100,8 +100,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h2>Also check out the Geneva Demonlist by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
-                    <h2>The GD Lite List can also be found by <a href="https://gdllite.pages.dev">CLICKING HERE</a>!</h2>
+                    <h2>Also check out the Geneva Demonlist by <a href="https://genevalist.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
                         Submission MUST be done by somebody who lives within Geneva, Ohio.
@@ -131,7 +130,7 @@ export default {
                         All levels on this list must be published and publicly available for anybody with the full version to play.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List ( Below Top 200 ), records are no longer accepted. Sorry!
+                        Once a level falls onto the Legacy List ( Below Top 100 ), records are no longer accepted. Sorry!
                     </p>
                     <p>
                         All submissions must be done on a level already on the list, or if it is a GDL Verification, the level must either be rated, be decorated to some extent, or have historial significance.
