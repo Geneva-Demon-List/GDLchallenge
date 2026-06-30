@@ -8,11 +8,17 @@
     "percentToQualify": "100",
     "difficulty": "Unrated",
     "records": [
-    {
+        {
             "user": "MrGilFellow",
             "link": "https://youtu.be/eVzUqN3MfMY",
             "percent": 100,
             "hz": 240
-    }
+        },
+        {
+            "user": "EarthMoth",
+            "link": "https://youtu.be/gGySmh-1FaI",
+            "percent": 100,
+            "hz": 240
+        }
   ]
 }
