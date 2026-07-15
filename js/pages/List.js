@@ -103,7 +103,7 @@ export default {
                     <h2>Also check out the Geneva Demonlist by <a href="https://genevalist.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Submission MUST be done by somebody who lives within Geneva, Ohio.
+                        Submission MUST be done by somebody who lives in the same town as the other people on the list.
                     </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed)
