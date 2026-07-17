@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "difficulty": "Unrated",
     "records": [
+        {
+            "user": "wRocket",
+            "link": "https://youtu.be/F3B09nuTJCM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
