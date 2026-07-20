@@ -99,7 +99,7 @@ export default {
                     <h2>Also check out the Geneva Demonlist by <a href="https://genevalist.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Submission MUST be done by somebody who lives in the same town as the other people on the list.
+                        Submission MUST be done by somebody is has been approved to be on the GDL. To be approved, please submit this form. https://forms.gle/UmTFCUXyCYnoF9Yb6
                     </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed)
