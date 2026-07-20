@@ -25,7 +25,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v-if="i + 1 <= 100" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 9999" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -124,9 +124,6 @@ export default {
                     </p>
                     <p>
                         All levels on this list must be published and publicly available for anybody with the full version to play.
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List ( Below Top 100 ), records are no longer accepted. Sorry!
                     </p>
                     <p>
                         All submissions must be done on a level already on the list, or if it is a GDL Verification, the level must either be rated, be decorated to some extent, or have historial significance.
