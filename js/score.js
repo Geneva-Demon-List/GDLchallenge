@@ -27,6 +27,14 @@ export function score(rank, percent, minPercent) {
     let score = (500 / ((rank + 5.1) / 6.1)) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
+    if (rank > 150) {
+        score = score * 0.1
+    } else if (rank > 75) {
+        score = score * 0.4
+    } else if (rank > 40) {
+        score = score * 0.7
+    }
+    
     score = Math.max(0, score);
 
     if (percent != 100) {
