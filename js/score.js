@@ -1,7 +1,7 @@
 /**
  * Numbers of decimal digits to round to
  */
-const scale = 3;
+const scale = 0;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
@@ -24,15 +24,15 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    let score = (500 / ((rank + 5.1) / 6.1)) *
+    let score = (500 / ((rank + 7.1) / 8.1)) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     if (rank > 150) {
-        score = score * 0.1
+        score = score * 0.2
     } else if (rank > 75) {
-        score = score * 0.4
+        score = score * 0.3
     } else if (rank > 40) {
-        score = score * 0.7
+        score = score * 0.6
     }
     
     score = Math.max(0, score);
