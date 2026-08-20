@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "difficulty": "Unrated",
     "records": [
+        {
+            "user": "wRocket",
+            "link": "https://youtu.be/0r9hHDKQTHc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MrGilFellow",
+            "link": "https://youtu.be/9txOJOdoZBE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chomp",
+            "link": "https://www.youtube.com/watch?v=1MSDwogQL0U",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
